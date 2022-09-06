@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Trabajando con CSS</title>
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        <h1>Lista de la compra</h1>
+        <h2>Titulo</h2>
+        <h2 class="encabezado">Esto es la sección de noticias</h2>
+
+        <!-- lista desordenada-->
+        <ul>
+<li "id= elemento-1" class= "primer">te</li>
+<li "id= elemento-2">huevo</li>
+<li "id= elemento-3">limon</li>
+<li "id= elemento-4">pan</li>
+<li "id= elemento-5">carne</li>
+
+</ul>
+
+<!--lista de supermercados ordenada-->
+<ol>
+
+<li "id= elemento-1">zonda</li>
+<li "id= elemento-2">chino</li>
+<li "id= elemento-3">dia</li>
+<li "id= elemento-4">diarco</li>
+<li "id= elemento-5">maxiconsumo</li>
+
+
+</ol>
+
+       
+        </div>
+    </body>
+</html>
