@@ -1,0 +1,13 @@
+h1 {
+
+    color: brown;
+}
+
+#elemento-1 {
+    color: red
+}
+
+*.primer {
+
+    font-size: 2rem;
+}
